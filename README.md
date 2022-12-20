@@ -1,6 +1,6 @@
 # 👨‍💻 Kyrylo Sorokovskyi
 
-**`Technology lover`**
+**`Technology Enthusiast`**
 
 I am a passionate software engineer with interests in web development, artificial intelegence, and data science. Seeking to utilize my technical and soft skills in real-world applications.
 
