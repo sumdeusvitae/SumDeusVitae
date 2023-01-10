@@ -25,6 +25,6 @@ I am a passionate software engineer with interests in web development, artificia
 
 ### 📊 Stats
 
-<!-- ![Kyrylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumdeusvitae&show_icons=true&theme=gruvbox) -->
+![Kyrylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumdeusvitae&show_icons=true&theme=gruvbox)
 
 ![My Streak](https://streak-stats.demolab.com?user=sumdeusvitae&theme=gruvbox&border_radius=4.5)
