@@ -30,3 +30,11 @@ I am a passionate software engineer with interests in web development, artificia
 <!--![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumdeusvitae&layout=compact&theme=gruvbox&hide_border=true) -->
 
 ![My Streak](https://streak-stats.demolab.com?user=sumdeusvitae&theme=gruvbox&border_radius=4.5)
+
+### Poem to brighten mood
+Section glows bright across the winter night,<br>
+Moon trend flows gently through the stars,<br>
+Silver stars world shines beyond our dreams,<br>
+Within soft calm senior walks today,<br>
+Autumn leaves dance past machinery gleams,<br>
+Forest whispers bloom near sweet herb now.<br>
