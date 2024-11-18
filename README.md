@@ -2,7 +2,7 @@
 
 **`Technology Enthusiast`**
 
-I am a passionate software engineer with interests in web development, artificial intelegence, and data science. Seeking to utilize my technical and soft skills in real-world applications.
+I'm actively seeking opportunities in backend web development, with a preference for working with Go or Python. I'm particularly excited about joining a startup with a small, collaborative team where I can contribute and make a meaningful impact right away. If you're looking to hire, let's connect!
 
 ---
 
