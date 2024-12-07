@@ -26,7 +26,7 @@ I'm actively seeking opportunities in backend web development, with a preference
 
 ### 📊 Stats
 
-![Kyrylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumdeusvitae&show_icons=true&theme=gruvbox)
+<!--![Kyrylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumdeusvitae&show_icons=true&theme=gruvbox)-->
 <!--![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumdeusvitae&layout=compact&theme=gruvbox&hide_border=true) -->
 
 ![My Streak](https://streak-stats.demolab.com?user=sumdeusvitae&theme=gruvbox&border_radius=4.5)
