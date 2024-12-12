@@ -1,6 +1,7 @@
-# 👨‍💻 Kyrylo Sorokovskyi
+<p align="center"><a href="https://kskyi.netlify.app/"><img width="80%" alt="Hello, 👨‍💻 Kyrylo Sorokovskyi. Technology Enthusiast" src="./header.png" /></a></p>
 
-**`Technology Enthusiast`**
+<br />
+
 
 I'm actively seeking opportunities in backend web development, with a preference for working with Go or Python. I'm particularly excited about joining a startup with a small, collaborative team where I can contribute and make a meaningful impact right away. If you're looking to hire, let's connect!
 
@@ -30,6 +31,17 @@ I'm actively seeking opportunities in backend web development, with a preference
 <!--![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumdeusvitae&layout=compact&theme=gruvbox&hide_border=true) -->
 
 ![My Streak](https://streak-stats.demolab.com?user=sumdeusvitae&theme=gruvbox&border_radius=4.5)
+
+#### Top Repositories
+
+
+<a href="https://github.com/SumDeusVitae/cli-assistant-client#readme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sumdeusvitae&repo=cli-assistant-client&theme=gruvbox" />
+</a>
+<a href="https://github.com/SumDeusVitae/FaceSwap_v01#readme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumDeusVitae&repo=FaceSwap_v01&theme=gruvbox" />
+</a>
+
 
 ### Poem to brighten mood
 Section glows bright across the winter night,<br>
