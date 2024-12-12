@@ -1,4 +1,4 @@
-<p align="center"><a href="https://kskyi.netlify.app/"><img width="80%" alt="Hello, 👨‍💻 Kyrylo Sorokovskyi. Technology Enthusiast" src="./header.png" /></a></p>
+<p align="center"><a href="https://kskyi.netlify.app/"><img width="50%" alt="Hello, 👨‍💻 Kyrylo Sorokovskyi. Technology Enthusiast" src="./header.png" /></a></p>
 
 <br />
 
